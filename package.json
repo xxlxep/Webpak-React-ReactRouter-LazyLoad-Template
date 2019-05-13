@@ -1,0 +1,23 @@
+{
+  "name": "webpak",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxlxep/Webpak-React-ReactRouter-LazyLoad-Template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xxlxep/Webpak-React-ReactRouter-LazyLoad-Template/issues"
+  },
+  "homepage": "https://github.com/xxlxep/Webpak-React-ReactRouter-LazyLoad-Template#readme",
+  "devDependencies": {
+    "webpack": "^4.31.0",
+    "webpack-dev-server": "^3.3.1"
+  }
+}
